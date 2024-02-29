@@ -74,8 +74,7 @@ Fixed Point Addition of Matrix A (Size: FM_COL * FM_ROW) and Matrix B (Size: FM_
 **E1_qadd_tb:** Testbench of **E1_qadd** module
 
 
-
-### 
+For more details, please refer to [https://www.cnblogs.com/georgelin/p/18045313].
 
 *Please feel free to contact if you have any problems* ~😉
 
