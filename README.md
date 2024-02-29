@@ -4,7 +4,7 @@
 
 Fixed Point Addition of Matrix A (Size: FM_COL * FM_ROW) and Matrix B (Size: FM_COL * FM_ROW). Implemented With the DDR4 Naive Interface and Simple Dual-Port BRAMs. 
 
-### **Features **  
+### **Features**  
 
 1. **Highly Parameterized.**
 2. **Already Tested Under Several Scenarios,** Including (FM_COL, FM_ROW) = (8, 4) / (16, 4) / (16, 8) / (64, 4) /(64, 8) /(128, 4), and various fixed point number configurations. In the uploaded code, the author utilizes **signed** 64-bit fixed point number with 15 bits of fraction part. Other configurations are welcome! Btw, You can also change *real_setting* in Vivado wave window and set the *binary points* variable to 15 to verify the results yourself.
@@ -63,7 +63,7 @@ Fixed Point Addition of Matrix A (Size: FM_COL * FM_ROW) and Matrix B (Size: FM_
 
 --------- **E1_ddr_wrapper:** Interface between MIG ip and ddr4_model
 
---------- **ddr4_model: ** Simulation model of DDR4
+--------- **ddr4_model:** Simulation model of DDR4
 
 
 
@@ -77,5 +77,5 @@ Fixed Point Addition of Matrix A (Size: FM_COL * FM_ROW) and Matrix B (Size: FM_
 
 ### 
 
-*Please feel free to contact if you have any problems ~*😉
+*Please feel free to contact if you have any problems* ~😉
 
